@@ -30,12 +30,12 @@ Welcome to AirBox's documentation!
     :maxdepth: 2
     :caption: Use Cases
 
-    usecases/ar
-    usecases/ai
-    usecases/blockchain
-    usecases/selfdriving
-    usecases/healthcare
-    usecases/financial
+    demos/ar
+    demos/ai
+    demos/blockchain
+    demos/selfdriving
+    demos/healthcare
+    demos/financial
 
 .. toctree::
     :maxdepth: 2
