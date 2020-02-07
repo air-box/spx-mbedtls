@@ -340,7 +340,7 @@ reset:
     }
 
     printf( " ok\n" );
-#if 1
+#if 0
     len = 0;
     memset(buf, 0, sizeof(buf));
     cursor = buf;
