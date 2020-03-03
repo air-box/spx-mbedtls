@@ -3,14 +3,22 @@ Installation
 ************
 
 Pre-requisites
-==============
+##############
 
-Via Git or Download
-===================
+Build from source
+#################
+
+git clone 
+
+make
 
 Download & Extract the air-box.tar.gz
 
-Via DockerHub
-=============
+cd 
+
+make
+
+Docker
+######
 
 

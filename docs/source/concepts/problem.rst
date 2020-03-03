@@ -1,6 +1,5 @@
-******************************
 Problem w/ existing approaches
-******************************
+##############################
 
 The problem with existing confidential computing solutions is that they are so much focussed on data in use protection that their design leaves a critical hole that compromises its core value i.e., protection from adversary with root previleges. 
 
