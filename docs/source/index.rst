@@ -4,14 +4,6 @@
 Welcome to AirBox's documentation!
 ==================================
 
-.. toctree::
-   :caption: Basic Usage
-   :maxdepth: 1
-
-   usage/installing
-   usage/configuring
-   usage/changelog
-   usage/contributing
 
 .. toctree::
    :caption: Concepts
@@ -68,3 +60,13 @@ Welcome to AirBox's documentation!
    workflow/tls-api
    workflow/kv-api
    workflow/attest-api
+
+
+.. toctree::
+   :caption: Basic Usage
+   :maxdepth: 1
+
+   usage/installing
+   usage/configuring
+   usage/changelog
+   usage/contributing
