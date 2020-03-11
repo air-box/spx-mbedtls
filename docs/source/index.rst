@@ -7,49 +7,31 @@ Welcome to AirBox's documentation!
 
 .. toctree::
    :caption: Concepts
-   :maxdepth: 2
+   :maxdepth: 1
 
    concepts/cc-intro
-   concepts/problem
-   concepts/solution
-   concepts/cc-extensions
-   concepts/backend
-   concepts/flexibility
-   concepts/security
-   concepts/performance
+   concepts/cc-extensions   
 
 .. toctree::
-    :maxdepth: 2
-    :caption: Use Cases
+    :maxdepth: 1
+    :caption: Getting started
 
-    demos/ar
+    usage/installing
+    sdk-users/hello-airbox
+    sdk-users/kubernetes
+    cloud-users/azure
+
+.. toctree::
+    :maxdepth: 1
+    :caption: AirBox-inside stacks
+
     demos/ai
-    demos/blockchain
-    demos/selfdriving
     demos/healthcare
     demos/financial
 
-.. toctree::
-    :maxdepth: 2
-    :caption: For SDK users
-
-    sdk-users/hello-airbox
-    sdk-users/bare-metal
-    sdk-users/kubernetes
-    sdk-users/openenclave
-    sdk-users/asylo
 
 .. toctree::
-    :maxdepth: 2
-    :caption: For cloud/edge users
-
-    cloud-users/gcp
-    cloud-users/azure
-    cloud-users/azure-iot
-    cloud-users/gke
-
-.. toctree::
-   :caption: Technical Details
+   :caption: Technical Deep Dive
    :maxdepth: 2
 
    workflow/tls-integ
@@ -63,10 +45,7 @@ Welcome to AirBox's documentation!
 
 
 .. toctree::
-   :caption: Basic Usage
+   :caption: 
    :maxdepth: 1
-
-   usage/installing
-   usage/configuring
    usage/changelog
    usage/contributing
