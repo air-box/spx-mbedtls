@@ -11,6 +11,7 @@ Welcome to AirBox's documentation!
 
    concepts/cc-intro
    concepts/cc-extensions   
+   concepts/cc-faqs
 
 .. toctree::
     :maxdepth: 1
